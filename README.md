@@ -43,7 +43,7 @@ The simplest way to create hosted apps across platforms and devices.
 [Manifold.js](http://manifoldjs.com/)
 
 ## Editors/IDE
-### [Visual Studio Code](https://code.visualstudio.com}
+### [Visual Studio Code](https://code.visualstudio.com)
 Build and debug modern web and cloud applications. Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.
 
 [Visual Studio Code](https://code.visualstudio.com)
