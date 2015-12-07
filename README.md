@@ -11,9 +11,6 @@ Test Microsoft Edge and versions of IE6 through IE11 using free virtual machines
 Run a quick code scan on any URL to check for out-of-date libraries, layout issues, and accessibility.
 [Scan your Site now for Web Interop](https://dev.windows.com/en-us/microsoft-edge/tools/staticscan/)
 
-### Web Interoperability Testing
-Run a quick code scan on any URL to check for out-of-date libraries, layout issues, and accessibility.
-[Scan your Site now for Web Interop](https://dev.windows.com/en-us/microsoft-edge/tools/staticscan/)
 
 ### Test for Edge on Machines without Edge
 Test sites in EdgeHTML on Windows 10 Technical Preview using Azure RemoteApp
